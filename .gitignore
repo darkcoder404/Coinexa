@@ -13,3 +13,6 @@
 # frontend code
 node_modules/
 dist/
+
+git config --global user.name "darkcoder404"
+git config --global user.email "subhamdikshit007@gmail.com"
